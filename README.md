@@ -1,0 +1,2 @@
+# MobileFrontEnd_musicAlbumsiOSapp_ReactNative
+Developed an iOS mobile app using react native that fetches list of music albums from an API's HTTP endpoint. Updated the state to re-render a scrollable view of music album's title, artist, thumbnail and cover images, and a buy now linking to amazon page, styled using Flexbox. Designed components to be reusable by passing data and components from the parent to child, using props and props children. (Screenshots within the albums folder).
